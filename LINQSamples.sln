@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncVsAct", "FuncVsAct\Func
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryAndMethodSyntax", "QueryAndMethodSyntax\QueryAndMethodSyntax.csproj", "{DAA2365A-D06B-4AEC-8381-9B326DA25274}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomFilterOperator", "CustomFilterOperator\CustomFilterOperator.csproj", "{57FC2D9D-1BB7-4673-A492-BCBEEA2CCA01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DAA2365A-D06B-4AEC-8381-9B326DA25274}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAA2365A-D06B-4AEC-8381-9B326DA25274}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAA2365A-D06B-4AEC-8381-9B326DA25274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57FC2D9D-1BB7-4673-A492-BCBEEA2CCA01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57FC2D9D-1BB7-4673-A492-BCBEEA2CCA01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57FC2D9D-1BB7-4673-A492-BCBEEA2CCA01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57FC2D9D-1BB7-4673-A492-BCBEEA2CCA01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
