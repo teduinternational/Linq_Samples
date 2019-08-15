@@ -17,6 +17,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomFilterOperator", "Cus
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilteringOperators", "FilteringOperators\FilteringOperators.csproj", "{9BE81C0B-84A3-4A73-998F-9BF072BD27D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingOperators", "SortingOperators\SortingOperators.csproj", "{F766763E-D3CD-487A-ACE4-B6F2A4EC57FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{B47B530D-9387-4BF0-A567-8F2D9E3DD574}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{9BE81C0B-84A3-4A73-998F-9BF072BD27D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BE81C0B-84A3-4A73-998F-9BF072BD27D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BE81C0B-84A3-4A73-998F-9BF072BD27D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F766763E-D3CD-487A-ACE4-B6F2A4EC57FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F766763E-D3CD-487A-ACE4-B6F2A4EC57FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F766763E-D3CD-487A-ACE4-B6F2A4EC57FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F766763E-D3CD-487A-ACE4-B6F2A4EC57FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B47B530D-9387-4BF0-A567-8F2D9E3DD574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47B530D-9387-4BF0-A567-8F2D9E3DD574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B47B530D-9387-4BF0-A567-8F2D9E3DD574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B47B530D-9387-4BF0-A567-8F2D9E3DD574}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
