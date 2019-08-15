@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoiningOperator", "JoiningO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectionOperators", "ProjectionOperators\ProjectionOperators.csproj", "{7A3256A8-CF81-4954-A47A-011EE7C50CB2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantifierOperators", "QuantifierOperators\QuantifierOperators.csproj", "{D943C468-108E-4EB8-84B6-FB3A9809A710}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{7A3256A8-CF81-4954-A47A-011EE7C50CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A3256A8-CF81-4954-A47A-011EE7C50CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A3256A8-CF81-4954-A47A-011EE7C50CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D943C468-108E-4EB8-84B6-FB3A9809A710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D943C468-108E-4EB8-84B6-FB3A9809A710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D943C468-108E-4EB8-84B6-FB3A9809A710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D943C468-108E-4EB8-84B6-FB3A9809A710}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
