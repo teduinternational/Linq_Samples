@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AggregationOperators", "Agg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementOperators", "ElementOperators\ElementOperators.csproj", "{0C5C19AD-F636-4D6F-B264-A12743AD128E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityOperator", "EqualityOperator\EqualityOperator.csproj", "{810E436E-B966-4937-B466-01E9B559855F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{0C5C19AD-F636-4D6F-B264-A12743AD128E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C5C19AD-F636-4D6F-B264-A12743AD128E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C5C19AD-F636-4D6F-B264-A12743AD128E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{810E436E-B966-4937-B466-01E9B559855F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{810E436E-B966-4937-B466-01E9B559855F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{810E436E-B966-4937-B466-01E9B559855F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{810E436E-B966-4937-B466-01E9B559855F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
