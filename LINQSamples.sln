@@ -15,21 +15,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueryAndMethodSyntax", "Que
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomFilterOperator", "CustomFilterOperator\CustomFilterOperator.csproj", "{57FC2D9D-1BB7-4673-A492-BCBEEA2CCA01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilteringOperators", "FilteringOperators\FilteringOperators.csproj", "{9BE81C0B-84A3-4A73-998F-9BF072BD27D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilteringOperators", "FilteringOperators\FilteringOperators.csproj", "{9BE81C0B-84A3-4A73-998F-9BF072BD27D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingOperators", "SortingOperators\SortingOperators.csproj", "{F766763E-D3CD-487A-ACE4-B6F2A4EC57FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortingOperators", "SortingOperators\SortingOperators.csproj", "{F766763E-D3CD-487A-ACE4-B6F2A4EC57FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{B47B530D-9387-4BF0-A567-8F2D9E3DD574}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csproj", "{B47B530D-9387-4BF0-A567-8F2D9E3DD574}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupingOperators", "GroupingOperators\GroupingOperators.csproj", "{E8D68247-94A0-4B03-A7E1-14E9013EDF02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroupingOperators", "GroupingOperators\GroupingOperators.csproj", "{E8D68247-94A0-4B03-A7E1-14E9013EDF02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoiningOperator", "JoiningOperator\JoiningOperator.csproj", "{A2A32762-3E5B-4495-8502-9D3E1FA5C2D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JoiningOperator", "JoiningOperator\JoiningOperator.csproj", "{A2A32762-3E5B-4495-8502-9D3E1FA5C2D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectionOperators", "ProjectionOperators\ProjectionOperators.csproj", "{7A3256A8-CF81-4954-A47A-011EE7C50CB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectionOperators", "ProjectionOperators\ProjectionOperators.csproj", "{7A3256A8-CF81-4954-A47A-011EE7C50CB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantifierOperators", "QuantifierOperators\QuantifierOperators.csproj", "{D943C468-108E-4EB8-84B6-FB3A9809A710}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuantifierOperators", "QuantifierOperators\QuantifierOperators.csproj", "{D943C468-108E-4EB8-84B6-FB3A9809A710}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AggregationOperators", "AggregationOperators\AggregationOperators.csproj", "{ACE9DB3A-EB0A-4B1E-9640-89E7AD3E8A0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AggregationOperators", "AggregationOperators\AggregationOperators.csproj", "{ACE9DB3A-EB0A-4B1E-9640-89E7AD3E8A0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementOperators", "ElementOperators\ElementOperators.csproj", "{0C5C19AD-F636-4D6F-B264-A12743AD128E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{ACE9DB3A-EB0A-4B1E-9640-89E7AD3E8A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACE9DB3A-EB0A-4B1E-9640-89E7AD3E8A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACE9DB3A-EB0A-4B1E-9640-89E7AD3E8A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C5C19AD-F636-4D6F-B264-A12743AD128E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C5C19AD-F636-4D6F-B264-A12743AD128E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C5C19AD-F636-4D6F-B264-A12743AD128E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C5C19AD-F636-4D6F-B264-A12743AD128E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
