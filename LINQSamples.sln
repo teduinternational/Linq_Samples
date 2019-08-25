@@ -37,13 +37,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EqualityOperator", "Equalit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConcatenationOperator", "ConcatenationOperator\ConcatenationOperator.csproj", "{9E2AC05D-FA13-4049-91AD-51ABDF12ACF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerationOperator", "GenerationOperator\GenerationOperator.csproj", "{B2E827AE-76B5-4276-A088-6343466CF06C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenerationOperator", "GenerationOperator\GenerationOperator.csproj", "{B2E827AE-76B5-4276-A088-6343466CF06C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetOperator", "SetOperator\SetOperator.csproj", "{D98F0135-7424-4CAA-AA11-35E9363D2B35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetOperator", "SetOperator\SetOperator.csproj", "{D98F0135-7424-4CAA-AA11-35E9363D2B35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartitioningOperator", "PartitioningOperator\PartitioningOperator.csproj", "{F1A36F94-4DA5-4B9F-83A7-0D29E81944B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartitioningOperator", "PartitioningOperator\PartitioningOperator.csproj", "{F1A36F94-4DA5-4B9F-83A7-0D29E81944B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversionOperator", "ConversionOperator\ConversionOperator.csproj", "{045C1EB2-AA59-4E0B-9A82-42BCFF25CA10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversionOperator", "ConversionOperator\ConversionOperator.csproj", "{045C1EB2-AA59-4E0B-9A82-42BCFF25CA10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeferredExecution", "DeferredExecution\DeferredExecution.csproj", "{4A8FE20F-B767-4D1B-AA26-02EF0085AC8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{045C1EB2-AA59-4E0B-9A82-42BCFF25CA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{045C1EB2-AA59-4E0B-9A82-42BCFF25CA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{045C1EB2-AA59-4E0B-9A82-42BCFF25CA10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A8FE20F-B767-4D1B-AA26-02EF0085AC8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A8FE20F-B767-4D1B-AA26-02EF0085AC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A8FE20F-B767-4D1B-AA26-02EF0085AC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A8FE20F-B767-4D1B-AA26-02EF0085AC8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
