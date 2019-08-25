@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionTree", "Expressio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetKeyword", "LetKeyword\LetKeyword.csproj", "{97F69377-C77F-42BE-9602-AB9628C52E7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntoKeyword", "IntoKeyword\IntoKeyword.csproj", "{B50EF4BC-FF93-401C-BFCF-9F9B5734590F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{97F69377-C77F-42BE-9602-AB9628C52E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97F69377-C77F-42BE-9602-AB9628C52E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97F69377-C77F-42BE-9602-AB9628C52E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B50EF4BC-FF93-401C-BFCF-9F9B5734590F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50EF4BC-FF93-401C-BFCF-9F9B5734590F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50EF4BC-FF93-401C-BFCF-9F9B5734590F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50EF4BC-FF93-401C-BFCF-9F9B5734590F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
