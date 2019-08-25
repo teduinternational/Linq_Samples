@@ -47,6 +47,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversionOperator", "Conve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeferredExecution", "DeferredExecution\DeferredExecution.csproj", "{4A8FE20F-B767-4D1B-AA26-02EF0085AC8B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmediateExecution", "ImmediateExecution\ImmediateExecution.csproj", "{E039372F-2F43-4356-A31C-9D82718DCD03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{4A8FE20F-B767-4D1B-AA26-02EF0085AC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A8FE20F-B767-4D1B-AA26-02EF0085AC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A8FE20F-B767-4D1B-AA26-02EF0085AC8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E039372F-2F43-4356-A31C-9D82718DCD03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E039372F-2F43-4356-A31C-9D82718DCD03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E039372F-2F43-4356-A31C-9D82718DCD03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E039372F-2F43-4356-A31C-9D82718DCD03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
