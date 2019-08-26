@@ -45,17 +45,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartitioningOperator", "Par
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversionOperator", "ConversionOperator\ConversionOperator.csproj", "{045C1EB2-AA59-4E0B-9A82-42BCFF25CA10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeferredExecution", "DeferredExecution\DeferredExecution.csproj", "{4A8FE20F-B767-4D1B-AA26-02EF0085AC8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeferredExecution", "DeferredExecution\DeferredExecution.csproj", "{4A8FE20F-B767-4D1B-AA26-02EF0085AC8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmediateExecution", "ImmediateExecution\ImmediateExecution.csproj", "{E039372F-2F43-4356-A31C-9D82718DCD03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImmediateExecution", "ImmediateExecution\ImmediateExecution.csproj", "{E039372F-2F43-4356-A31C-9D82718DCD03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expression", "Expression\Expression.csproj", "{9C765F99-E652-4302-9261-10814C0ABE12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Expression", "Expression\Expression.csproj", "{9C765F99-E652-4302-9261-10814C0ABE12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionTree", "ExpressionTree\ExpressionTree.csproj", "{D87ADEF4-C141-4355-9802-DA64DAB792F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressionTree", "ExpressionTree\ExpressionTree.csproj", "{D87ADEF4-C141-4355-9802-DA64DAB792F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetKeyword", "LetKeyword\LetKeyword.csproj", "{97F69377-C77F-42BE-9602-AB9628C52E7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LetKeyword", "LetKeyword\LetKeyword.csproj", "{97F69377-C77F-42BE-9602-AB9628C52E7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntoKeyword", "IntoKeyword\IntoKeyword.csproj", "{B50EF4BC-FF93-401C-BFCF-9F9B5734590F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntoKeyword", "IntoKeyword\IntoKeyword.csproj", "{B50EF4BC-FF93-401C-BFCF-9F9B5734590F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithCsvFile", "WorkingWithCsvFile\WorkingWithCsvFile.csproj", "{C0B0C799-A278-43AF-8FD8-0384B99CD28C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{B50EF4BC-FF93-401C-BFCF-9F9B5734590F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B50EF4BC-FF93-401C-BFCF-9F9B5734590F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B50EF4BC-FF93-401C-BFCF-9F9B5734590F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0B0C799-A278-43AF-8FD8-0384B99CD28C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B0C799-A278-43AF-8FD8-0384B99CD28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B0C799-A278-43AF-8FD8-0384B99CD28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B0C799-A278-43AF-8FD8-0384B99CD28C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
