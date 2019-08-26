@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithJson", "WorkingW
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithXml", "WorkingWithXml\WorkingWithXml.csproj", "{8E087606-F953-412C-8ADC-BCE5C4DDD961}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithEFCore", "WorkingWithEFCore\WorkingWithEFCore.csproj", "{B459354F-1333-4FD8-A65B-7615202979CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{8E087606-F953-412C-8ADC-BCE5C4DDD961}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E087606-F953-412C-8ADC-BCE5C4DDD961}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E087606-F953-412C-8ADC-BCE5C4DDD961}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B459354F-1333-4FD8-A65B-7615202979CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B459354F-1333-4FD8-A65B-7615202979CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B459354F-1333-4FD8-A65B-7615202979CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B459354F-1333-4FD8-A65B-7615202979CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
