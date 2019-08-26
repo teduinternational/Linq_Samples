@@ -59,6 +59,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntoKeyword", "IntoKeyword\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithCsvFile", "WorkingWithCsvFile\WorkingWithCsvFile.csproj", "{C0B0C799-A278-43AF-8FD8-0384B99CD28C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithJson", "WorkingWithJson\WorkingWithJson.csproj", "{90B6BD84-6D30-4D46-A085-BC826AE2CAF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{C0B0C799-A278-43AF-8FD8-0384B99CD28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0B0C799-A278-43AF-8FD8-0384B99CD28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0B0C799-A278-43AF-8FD8-0384B99CD28C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90B6BD84-6D30-4D46-A085-BC826AE2CAF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B6BD84-6D30-4D46-A085-BC826AE2CAF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B6BD84-6D30-4D46-A085-BC826AE2CAF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B6BD84-6D30-4D46-A085-BC826AE2CAF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
